@@ -1,5 +1,7 @@
 <h1 align="center">I'm Tim</h1>
 <h3 align="center">Welcome to my Github Profile</h3>
+![Banner](https://github.com/tim-githaiga/tim-githaiga/raw/main/Githaiga%20Timothy%20Linkedin%20Banner.jpg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tim-githaiga&label=Profile%20views&color=0e75b6&style=flat" alt="tim-githaiga" /> </p>
 
