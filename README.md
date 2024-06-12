@@ -5,12 +5,6 @@
   <img src="https://github.com/tim-githaiga/tim-githaiga/raw/main/Githaiga%20Timothy%20Linkedin%20Banner.jpg" alt="Banner" width="100%" height="auto">
 </div>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tim-githaiga&label=Profile%20views&color=0e75b6&style=flat" alt="tim-githaiga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tim-githaiga" alt="tim-githaiga" /></a> </p>
-
 - 💻 Software Developer with a passion for **open source.**
 
 - 🎨 Lover of **clean code and elegant solutions.**
