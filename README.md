@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [www.githaigatim.com](www.githaigatim.com)
 
-- 📫 How to reach me **projects@githaigatim.com**
+- 📫 How to reach me **hello@githaigatim.com**
 
 - 📄 Know about my experiences LinkedIn: **Githaiga Timothy**
 
