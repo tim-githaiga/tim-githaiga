@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **projects@githaigatim.com**
 
-- 📄 Know about my experiences [LinkedIn:](LinkedIn:)
+- 📄 Know about my experiences [LinkedIn:](LinkedIn:Githaiga Timothy)
 
 - ⚡ Fun fact **Did you know? The first computer bug was an actual bug!**
 
