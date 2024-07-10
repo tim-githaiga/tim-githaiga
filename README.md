@@ -11,7 +11,7 @@
 
 - 🌱 Constantly learning and exploring **new technologies.**
 
-- 🔭 Currently diving into **Quantum Computing, data science and AI.**
+- 🔭 Currently diving into **Quantum Computing, Data science and AI.**
 
 - 👨‍💻 All of my projects are available at [www.githaigatim.com](www.githaigatim.com)
 
