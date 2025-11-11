@@ -13,11 +13,9 @@
 
 - 🔭 Currently diving into **Quantum Computing, Data science and AI.**
 
-- 👨‍💻 All of my projects are available at [www.githaigatim.com](www.githaigatim.com)
+- 📫 How to reach me **githaiga.tim@gmail.com**
 
-- 📫 How to reach me **hello@githaigatim.com**
-
-- 📄 Know about my experiences LinkedIn: **Githaiga Timothy**
+- 📄 Know about my experiences LinkedIn: **Timothy Githaiga**
 
 - ⚡ Fun fact **Did you know? The first computer bug was an actual bug!**
 
